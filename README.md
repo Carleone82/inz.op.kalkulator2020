@@ -1,4 +1,2 @@
-to jest prosty program kalkulatora
+to jest prosty program kalkulatora instrukcja obsługi
 sialala
-
-hh
