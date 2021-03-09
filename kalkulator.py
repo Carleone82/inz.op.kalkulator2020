@@ -9,3 +9,4 @@ b=int(input())
 
 get_info()
 dodaj()
+print(dodaj(a,b))
